@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979232107082",
+    "project_id": "notif-casamiam",
+    "storage_bucket": "notif-casamiam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979232107082:android:871dd8a8c5c3505f6e14b3",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979232107082-f7q33i5d1ti0l6ratkq7ghdrbf6rvpk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHF3qBD-HJhfWF8n0i38Fm5bPBTmgJBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979232107082-f7q33i5d1ti0l6ratkq7ghdrbf6rvpk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
